@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "SWLib")(type "KiCad")(uri "${KIPRJMOD}/SWLib/SWLib.pretty")(options "")(descr ""))
-)
